@@ -48,7 +48,8 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-
+pip install django-tenants
+pip install psycopg2-binary
 <br>
 
 #### - Generate Secret Key ( ! Important for deployment ! )
